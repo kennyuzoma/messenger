@@ -1,12 +1,12 @@
 {
-    "name": "gerardojbaez/messenger",
+    "name": "kennyuzoma/messenger",
     "description": "Messenger functionality for Laravel 5.2.",
     "keywords": ["laravel", "messenger", "messages"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Gerardo Báez",
-            "email": "g@gerardobaez.com"
+            "name": "Kenny Uzoma",
+            "email": "kennyuzoma@gmail.com"
         }
     ],
     "minimum-stability": "dev",
